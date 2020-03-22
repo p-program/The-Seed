@@ -8,6 +8,8 @@
 
 云计算的未来，必将变成面向个人的边缘计算。
 
+人与机器作为一种[资源](resource.md),相互合作并竞争。
+
 一花一世界，一叶一如来。
 
 Everyone can build his own world.
