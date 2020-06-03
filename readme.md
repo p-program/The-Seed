@@ -4,7 +4,7 @@
 
 ## Overview
 
-![](images/new-world1.png)
+![](source/images/new-world1.png)
 
 ## Catalog
 
@@ -41,23 +41,23 @@
 
 云计算的未来，必将变成面向个人的边缘计算。
 
-人与机器作为一种[资源](resource.md),相互合作并竞争。
+人与机器作为一种[资源](source/syntax/resource.md),相互合作并竞争。
 
 一花一世界，一叶一如来。
 
 Everyone can build his own world.
 
-为此，我重新定义了[世界](world.md)这个概念。
+为此，我重新定义了[世界](source/syntax/world.md)这个概念。
 
 世界上发生的每一件事，本质上都是
 
-[Input](input.md)
+[Input](source/event/input.md)
 -->
-[Process](process.md)
+[Process](source/event/process.md)
 -->
-[Output](output.md)
+[Output](source/event/output.md)
 -->
-[Influence](influence.md)
+[Influence](source/event/influence.md)
 
 这四者的闭环。`Influence` 也是一种 `Input`。
 
