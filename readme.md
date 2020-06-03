@@ -4,7 +4,7 @@
 
 ## Overview
 
-![](img/new-world1.png)
+![](images/new-world1.png)
 
 ## Architecture
 
@@ -39,4 +39,3 @@ Everyone can build his own world.
 ## Projects using "The Seed SDK"
 
 1. [机器之心](https://p-program.github.io/the-seed-of-robot/)
-1. 
