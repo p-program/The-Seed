@@ -9,9 +9,9 @@
 ## Catalog
 
 1. 符号
-    1. 世界
-    1. 枚举
-    1. 资源
+    1. [世界](source/syntax/world.md)
+    1. [枚举](source/syntax/enum.md)
+    1. [资源](source/syntax/resource.md)
 1. 类型
     1. 动物
     1. 真菌
@@ -23,19 +23,18 @@
     1. 变量
     1. 时间旅行
 1. 控制
-    1. for
-    1. break
-1. 事件
-    1. 输入
-    1. 处理
-    1. 输出
-    1. 影响
+    1. [for](source/cybernetics/for.md)
+    1. [break](source/cybernetics/break.md)
+1. [处理](source/process/readme.md)
+    1. [输入](source/process/input.md)
+    1. [计算](source/process/compute.md)
+    1. [输出](source/process/output.md)
+    1. [影响](source/process/influence.md)
 1. 函数
     1. 方法
 1. 运算
     1. 算子
     1. 算符
-
 
 ## Architecture
 
@@ -59,7 +58,7 @@ Everyone can build his own world.
 -->
 [Influence](source/event/influence.md)
 
-这四者的闭环。`Influence` 也是一种 `Input`。
+这四者的闭环。`[Influence](source/event/influence.md)` 也是一种 `[Input](source/event/input.md)`。
 
 举个例子，我受到上天的感召（Input），决定改变这个世界（Process），从每天早起早睡开始做起（Output）。结果却发现自己一天屁事没干，整天只顾着睡觉，还睡跨了床架(Influence、Input)。
 
