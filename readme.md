@@ -17,10 +17,10 @@
     1. 真菌
     1. 植物
     1. 病毒
-    1. 人类
+    1. [人类](/source/type/human.md)
 1. 变量
-    1. 常量
-    1. 变量
+    1. [常量](/source/variable/constant.md)
+    1. [变量](/source/variable/variable.md)
     1. 时间旅行
 1. 控制
     1. [for](source/cybernetics/for.md)
@@ -35,7 +35,7 @@
 1. 运算
     1. [算力资源](/source/syntax/resource.md)
     1. 算符
-    1. [世界的相交，平行，融合](/source/math/operator.md
+    1. [世界的相交，平行，融合](/source/math/operator.md)
 
 ## Architecture
 
