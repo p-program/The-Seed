@@ -31,10 +31,11 @@
     1. [输出](source/process/output.md)
     1. [影响](source/process/influence.md)
 1. 函数
-    1. 方法
+    1. [方法](/source/function/readme.md)
 1. 运算
-    1. 算子
+    1. [算力资源](/source/syntax/resource.md)
     1. 算符
+    1. [世界的相交，平行，融合](/source/math/operator.md
 
 ## Architecture
 
