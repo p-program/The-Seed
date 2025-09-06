@@ -23,7 +23,7 @@ pyparsing==2.4.6
 pytz==2019.3
 PyYAML==5.3
 recommonmark==0.6.0
-requests==2.23.0
+requests==2.32.4
 six==1.14.0
 snowballstemmer==2.0.0
 some-package==0.1
