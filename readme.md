@@ -34,14 +34,13 @@
     1. [方法](/source/function/readme.md)
 1. 运算
     1. [算力资源](/source/syntax/resource.md)
-    1. 算符
     1. [世界的相交，平行，融合](/source/math/operator.md)
 
 ## Architecture
 
 云计算的未来，必将变成面向个人的边缘计算。
 
-人与机器作为一种[资源](source/syntax/resource.md),相互合作并竞争。
+人与机器作为一种[资源](source/syntax/resource.md),相互竞争并合作。竞争只是过程，人机混合编程才是最终方向。
 
 一花一世界，一叶一如来。
 
@@ -56,16 +55,15 @@ Everyone can build his own world.
 [Process](source/event/process.md)
 -->
 [Output](source/event/output.md)
--->
+
 [Influence](source/event/influence.md)
 
-这四者的闭环。`Influence` 也是一种 `Input`。
+周期性的反复计算，产生的“时序数据”即为 influence。合并这四个概念，就是“计算”。
 
-举个例子，我受到上天的感召（Input），决定改变这个世界（Process），从每天早起早睡开始做起（Output）。结果却发现自己一天屁事没干，整天只顾着睡觉，还睡跨了床架(Influence、Input)。
+举个例子，我受到上天的感召（Input），决定改变这个世界（Process），从每天早起早睡开始做起（Process）。
+结果却发现自己一天屁事没干，白天踩点到，中午吃得多，晚上早点睡。整天只顾着睡觉，还睡跨了床架(Influence、Input)。
 
 于是呢，我又得去买新的床（旧世界的影响成为了新世界的输入条件）。
-
-这四者一直紧密地联系在一起，缺一不可，从未分离过。
 
 ## Projects using "The Seed SDK"
 
